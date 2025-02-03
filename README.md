@@ -1,2 +1,2 @@
 # Western-Governors-University-Projects
-Index of Western Governors University
+Repo of Western Governors University
