@@ -1,9 +1,9 @@
 # University-Projects
 Repo of University Projects
 
-## Java
+## Java Projects
 
-## Data Stuctures
+## Data Stuctures Projects
 
-## Web Dev
+## Web Dev Projects
 
